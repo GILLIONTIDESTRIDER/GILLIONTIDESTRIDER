@@ -3,7 +3,9 @@
 </p>
 <p align="center">
 I love my other captains
-< @JAYFERIN @CHIPJAMES 3
+  </p>
+<p align="center">
+ < @JAYFERIN & CHIPJAMES 3
 </p>
 
 <p align="center">
