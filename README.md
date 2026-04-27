@@ -5,7 +5,7 @@ COMPLETE CREDITS TO @AZPYIEL/@JAYFERIN, I LOVE THIS ART SO MUCH IT'S SO FUCKING 
   </p>  
 
 <p align="center">
-<img src="https://64.media.tumblr.com/e1bd11fbdb2764abb977173ef9bd1854/574874b40605ca23-3c/s1280x1920/b33146ddeaf6af0d938856f4d71d2be7cfb653e0.pnj" alt="ac-wasyago-tumblr" width="700">
+<img src="https://64.media.tumblr.com/e4832d2292e7b96262067395cf460546/b4ed5954b0535ecc-8a/s1280x1920/edd2a1ac1cb71fa2f4cdda702832a2e16248d230.pnj" alt="ac-wasyago-tumblr" width="700">
 <p align="center">
 " How much will it take to break your spirits? "
 </p>
