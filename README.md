@@ -21,7 +21,7 @@
 </p>
 
  <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=GILLIONTIDESTRIDER&label=​🇮​​🇹+🇮​​🇸+🇲​​🇾+🇩​​🇪​​🇸​​🇹​​🇮​​🇳​​🇾​..&color=26907d&abbreviated=true&style=flat-square">
+  <img align="center" src="https://komarev.com/ghpvc/?username=GILLIONTIDESTRIDER&label=​🇮​​🇹+🇮​​🇸+🇲​​🇾+🇩​​🇪​​🇸​​🇹​​🇮​​🇳​​🇾​..&color=73b16f&abbreviated=true&style=flat-square">
  </a>
 </p>
 
