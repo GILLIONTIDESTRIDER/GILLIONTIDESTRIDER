@@ -35,3 +35,17 @@
 " alt="bleh" width="400">
 </p>
 
+</br>
+ </br>
+
+
+<details>
+
+<summary><p align="center"><img src=https://64.media.tumblr.com/ebe11ed4c69ba659f7458ecdbf37bab2/62946dd2b7eba46b-1e/s1280x1920/915f12ba465acdd0f85c88187f8a4b607aaf545e.pnj
+" alt="bleh" width="150"></p></summary>
+
+how the shit do i make this aligned
+
+</details>
+
+
