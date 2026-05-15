@@ -49,9 +49,9 @@ $\text{\small\it\color{#73b16f}{Nearly always offtab unless with friends. c+h al
   $\text{\small\it\color{#73b16f}{I adore making new friends and socialising, if you ever want to be friends just ask! even if its just a " hey you look cool can we be friends ".}}$
   </br>
  </br>
-  $\text{\small\it\color{#336967}{Please keep in mind that I often refer to characters as me or that I am them, I dont know the label for this and I'm not bothered finding it out.}}$
+  $\text{\small\it\color{#336967}{Please keep in mind that I often refer to characters as me or that I am them, I dont know the label for this and I'm not bothered finding it.}}$
    $\text{\small\it\color{#336967}{I am very much aware that I'm a human and I'm not a fictional character, and I can easily seperate myself from the actual character.}}$
-    $\text{\small\it\color{#354574}{I simply do this for fun and for comfort, I have done it my whole life and if this makes you uncomfortable please dont interact or block/hide me.}}$
+    $\text{\small\it\color{#354574}{I simply do this for fun and for comfort, I have done it my whole life and if this makes you uncomfortable please dont interact.}}$
      $\text{\small\it\color{#354574}{'Doubles' don't bother me in the slightest, infact i love interacting with people who also like the same characters.}}$
  </p>
  
