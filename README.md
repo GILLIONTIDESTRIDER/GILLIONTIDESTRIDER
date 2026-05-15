@@ -30,22 +30,14 @@
 " alt="bleh" width="550">
 </p>
 
-<p align="center">
-<img src=https://64.media.tumblr.com/dc48e37e13013438bb7ba47d80f42509/003b91d3fdc08880-c8/s1280x1920/588425394c698f7095e280d5af2f97ffd0fe803d.pnj
-" alt="bleh" width="400">
+ <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g0noqw57wfqhbo395152cka3l&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=8674b7&bar_color_cover=false">
+  </a>
 </p>
 
-</br>
- </br>
+<details><summary><p align="center"><img src=https://64.media.tumblr.com/dc48e37e13013438bb7ba47d80f42509/003b91d3fdc08880-c8/s1280x1920/588425394c698f7095e280d5af2f97ffd0fe803d.pnj
+" alt="bleh" width="400"></p></summary>how the shit do i make this aligned</details>
 
-
-<details>
-
-<summary><p align="center"><img src=https://64.media.tumblr.com/ebe11ed4c69ba659f7458ecdbf37bab2/62946dd2b7eba46b-1e/s1280x1920/915f12ba465acdd0f85c88187f8a4b607aaf545e.pnj
-" alt="bleh" width="150"></p></summary>
-
-how the shit do i make this aligned
-
-</details>
 
 
