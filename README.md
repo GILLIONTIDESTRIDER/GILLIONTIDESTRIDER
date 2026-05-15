@@ -20,13 +20,18 @@
 " alt="bleh" width="200">
 </p>
 
+ <p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=GILLIONTIDESTRIDER&label=​🇮​​🇹+🇮​​🇸+🇲​​🇾+🇩​​🇪​​🇸​​🇹​​🇮​​🇳​​🇾​..&color=26907d&abbreviated=true&style=flat-square">
+ </a>
+</p>
+
 <p align="center">
 <img src=https://64.media.tumblr.com/472030d4f2b7966e72733d3eeee71a6c/337c7beade6bed85-92/s1280x1920/a3494fc14abfc31fe0b0331d04990175f37875b3.pnj
 " alt="bleh" width="550">
 </p>
 
-
- <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=GILLIONTIDESTRIDER&label=I'll+set+the+sail+if+you+lift+the+tether..&color=26907d&abbreviated=true&style=flat-square">
- </a>
+<p align="center">
+<img src=https://64.media.tumblr.com/dc48e37e13013438bb7ba47d80f42509/003b91d3fdc08880-c8/s1280x1920/588425394c698f7095e280d5af2f97ffd0fe803d.pnj
+" alt="bleh" width="400">
 </p>
+
