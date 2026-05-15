@@ -36,8 +36,26 @@
   </a>
 </p>
 
-<details><summary><p align="center"><img src=https://64.media.tumblr.com/dc48e37e13013438bb7ba47d80f42509/003b91d3fdc08880-c8/s1280x1920/588425394c698f7095e280d5af2f97ffd0fe803d.pnj
-" alt="bleh" width="400"></p></summary>how the shit do i make this aligned</details>
+<details>
+  <summary><p align="center"><img src=https://64.media.tumblr.com/dc48e37e13013438bb7ba47d80f42509/003b91d3fdc08880-c8/s1280x1920/588425394c698f7095e280d5af2f97ffd0fe803d.pnj
+" alt="bleh" width="400"></p>
+  </summary>
+  
+<p align="center">
+ $\text{\small\it\color{#c8cea0}{Hiya! I'm Gillion or Aiden, I go by he/him prns and I'm 17.}}$
+</br>
+ </br>
+$\text{\small\it\color{#73b16f}{Nearly always offtab unless with friends. c+h always encouraged, feel free to sit with me even if with friends I will probably just ignore you.}}$
+  $\text{\small\it\color{#73b16f}{I adore making new friends and socialising, if you ever want to be friends just ask! even if its just a " hey you look cool can we be friends ".}}$
+  </br>
+ </br>
+  $\text{\small\it\color{#336967}{Please keep in mind that I often refer to characters as me or that I am them, I dont know the label for this and I'm not bothered finding it out.}}$
+   $\text{\small\it\color{#336967}{I am very much aware that I'm a human and I'm not a fictional character, and I can easily seperate myself from the actual character.}}$
+    $\text{\small\it\color{#354574}{I simply do this for fun and for comfort, I have done it my whole life and if this makes you uncomfortable please dont interact or block/hide me.}}$
+     $\text{\small\it\color{#354574}{'Doubles' don't bother me in the slightest, infact i love interacting with people who also like the same characters.}}$
+ </p>
+ 
+</details>
 
 <p align="center">
 <img src=https://64.media.tumblr.com/3b4e06ede8e3cbf5d9b52db86b910991/50b5f0fa00c5b11d-f5/s1280x1920/6f60dfc3eb3f29d0fc866af3d937747c192bda7b.pnj
