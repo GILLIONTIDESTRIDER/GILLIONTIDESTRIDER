@@ -10,14 +10,19 @@
 </p>
   
  <p align="center">
-  <I><sup>$\text{\small\it\color{#3a877a}{" And you weaken your love, and you hold it above your head}}$</sup></I>
+  <I><sup>$\text{\small\it\color{#9897ae}{" And you weaken your love, and you hold it above your head}}$</sup></I>
     <br/>
-  <I><sup>$\text{\small\it\color{#336967}{Success is a song of the heart, not a song of your bed. "}}$</sup></I>
+  <I><sup>$\text{\small\it\color{#b280a2}{Success is a song of the heart, not a song of your bed. "}}$</sup></I>
  </p>
 
 <p align="center">
 <img src=https://64.media.tumblr.com/341e5237655201e6ad7383bad2ece0ce/8b14094bd952f89f-19/s1280x1920/50496b0195eb52dad166c649217070f29e5df887.pnj
 " alt="bleh" width="200">
+</p>
+
+<p align="center">
+<img src=https://64.media.tumblr.com/472030d4f2b7966e72733d3eeee71a6c/337c7beade6bed85-92/s1280x1920/a3494fc14abfc31fe0b0331d04990175f37875b3.pnj
+" alt="bleh" width="550">
 </p>
 
 
