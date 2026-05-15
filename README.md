@@ -45,7 +45,7 @@
  $\text{\small\it\color{#c8cea0}{Hiya! I'm Gillion or Aiden, I go by he/him prns and I'm 17.}}$
 </br>
  </br>
-$\text{\small\it\color{#73b16f}{Nearly always offtab unless with friends. c+h always encouraged, feel free to sit with me even if with friends I will probably just ignore you.}}$
+$\text{\small\it\color{#73b16f}{Nearly always offtab unless with friends. c+h always encouraged, feel free to sit with me even if with friends I will probably ignore you.}}$
   $\text{\small\it\color{#73b16f}{I adore making new friends and socialising, if you ever want to be friends just ask! even if its just a " hey you look cool can we be friends ".}}$
   </br>
  </br>
