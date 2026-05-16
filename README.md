@@ -70,5 +70,7 @@ $\text{\small\it\color{#73b16f}{Nearly always offtab unless with friends. c+h al
 " alt="bleh" width="200">
 </p>
 
+<p align="center"><a href="https://championoftheundersea-.straw.page/"><img src="https://64.media.tumblr.com/5f92c4d6f40162739f49848841e841f1/6bac9a2b9e63b884-a9/s2048x3072/3a7cacf5e197fd4644cbb8afb657ca6da3594776.pnj?raw=true" width="21%"></a>   <a href="https://heroofthedeep.atabook.org/"><img src="https://64.media.tumblr.com/cac4dd355adade054574ba62d4345913/6bac9a2b9e63b884-5d/s2048x3072/a14033d76b995612e716f3b80077d8f12f55e6b9.pnj?raw=true" width="21%"></a></p>
+
 
 w.i.p
