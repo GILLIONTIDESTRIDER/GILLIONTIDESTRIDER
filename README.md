@@ -82,7 +82,7 @@ $\text{\small\it\color{#336967}{GO CHECK OUT MY FRIENDS GITHUBS!}}$
   </p>
 
   <p align="center">
-$\text{\small\it\color{#c8cea0}{@azypiel}}$ $\text{\small\it\color{#69c3c6}{@me}}$ $\text{\small\it\color{#b280a2}{@puppyfes}}$
+$\text{\small\it\color{#c8cea0}{@azpyiel}}$ $\text{\small\it\color{#69c3c6}{@me}}$ $\text{\small\it\color{#b280a2}{@puppyfes}}$
   </p>
 
   <p align="center"><a href="https://github.com/azpyiel"><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/GILLIONTIDESTRIDER"><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/puppyfes"><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a></p>
