@@ -1,6 +1,6 @@
 <p align="center">
 <img src=https://64.media.tumblr.com/b7346acca5cd18d64f966071f8e5a41e/ef2d35fd2732cf31-47/s1280x1920/165bd2231466c2ca2022a66463812fa0235d0f32.pnj
-" alt="bleh" width="750">
+" alt="bleh" width="800">
 </p>
 
 
@@ -72,5 +72,23 @@ $\text{\small\it\color{#73b16f}{Nearly always offtab unless with friends. c+h al
 
 <p align="center"><a href="https://championoftheundersea-.straw.page/"><img src="https://64.media.tumblr.com/5f92c4d6f40162739f49848841e841f1/6bac9a2b9e63b884-a9/s2048x3072/3a7cacf5e197fd4644cbb8afb657ca6da3594776.pnj?raw=true" width="21%"></a>   <a href="https://heroofthedeep.atabook.org/"><img src="https://64.media.tumblr.com/cac4dd355adade054574ba62d4345913/6bac9a2b9e63b884-5d/s2048x3072/a14033d76b995612e716f3b80077d8f12f55e6b9.pnj?raw=true" width="21%"></a></p>
 
+<p align="center">
+<img src=https://64.media.tumblr.com/13122abda45fa38899255f224864103e/57f233d567d86a1f-e7/s1280x1920/8c7a8c6ac3b1c7cb7df3ce5a9d935ac0a95e9bc0.pnj
+" alt="bleh" width="300">
+</p>
 
-w.i.p
+<p align="center">
+$\text{\small\it\color{#336967}{GO CHECK OUT MY FRIENDS GITHUBS!}}$
+  </p>
+
+  <p align="center">
+$\text{\small\it\color{#c8cea0}{@azypiel}}$ $\text{\small\it\color{#69c3c6}{@me}}$ $\text{\small\it\color{#b280a2}{@puppyfes}}$
+  </p>
+
+  <p align="center"><a href="https://github.com/azpyiel"><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/GILLIONTIDESTRIDER"><img src="https://64.media.tumblr.com/bc3885354c3ac3ba62501936b8634f68/43c0af82208baab2-5f/s400x600/8ad4c26c6c90c5f37b099f274fd5674731c67f2c.gifv?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/puppyfes"><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a></p>
+
+
+<p align="center">
+<img src=https://64.media.tumblr.com/228eaa260fc2d5ed225a7f6f930857ab/e97c060cb8acf318-c7/s1280x1920/dea757a3b6116a7277e6014246eb2acdeb767874.pnj
+" alt="bleh" width="800">
+</p>
