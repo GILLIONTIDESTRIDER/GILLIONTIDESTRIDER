@@ -36,10 +36,8 @@
   </a>
 </p>
 
-<details>
-  <summary><p align="center"><img src=https://64.media.tumblr.com/dc48e37e13013438bb7ba47d80f42509/003b91d3fdc08880-c8/s1280x1920/588425394c698f7095e280d5af2f97ffd0fe803d.pnj
-" alt="bleh" width="400"></p>
-  </summary>
+<p align="center"><img src=https://64.media.tumblr.com/3b4e06ede8e3cbf5d9b52db86b910991/50b5f0fa00c5b11d-f5/s1280x1920/6f60dfc3eb3f29d0fc866af3d937747c192bda7b.pnj
+" alt="bleh" width="300"></p>
   
 <p align="center">
  $\text{\small\it\color{#c8cea0}{Hiya! I'm Gillion or Aiden, I go by he/him prns and I'm 17.}}$
@@ -54,11 +52,21 @@ $\text{\small\it\color{#73b16f}{Nearly always offtab unless with friends. c+h al
     $\text{\small\it\color{#354574}{I simply do this for fun and for comfort, I have done it my whole life and if this makes you uncomfortable please dont interact.}}$
      $\text{\small\it\color{#354574}{'Doubles' don't bother me in the slightest, infact i love interacting with people who also like the same characters.}}$
  </p>
+
+ <p align="center">
+<img src=https://64.media.tumblr.com/dc48e37e13013438bb7ba47d80f42509/003b91d3fdc08880-c8/s1280x1920/588425394c698f7095e280d5af2f97ffd0fe803d.pnj
+" alt="bleh" width="200">
+</p>
  
-</details>
 
 <p align="center">
-<img src=https://64.media.tumblr.com/3b4e06ede8e3cbf5d9b52db86b910991/50b5f0fa00c5b11d-f5/s1280x1920/6f60dfc3eb3f29d0fc866af3d937747c192bda7b.pnj
+  <I><sup>$\text{\small\it\color{#9897ae}{Credits to my lovely silly @azpyiel for making my graphic move.}}$</sup></I>
+    <br/>
+  <I><sup>$\text{\small\it\color{#b280a2}{All art made by me.}}$</sup></I>
+ </p>
+
+<p align="center">
+<img src=https://64.media.tumblr.com/341e5237655201e6ad7383bad2ece0ce/8b14094bd952f89f-19/s1280x1920/50496b0195eb52dad166c649217070f29e5df887.pnj
 " alt="bleh" width="200">
 </p>
 
