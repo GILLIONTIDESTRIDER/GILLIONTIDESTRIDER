@@ -60,7 +60,7 @@ $\text{\small\it\color{#73b16f}{Nearly always offtab unless with friends. c+h al
  
 
 <p align="center">
-  <I><sup>$\text{\small\it\color{#9897ae}{Credits to my lovely silly @azpyiel for making my graphic move.}}$</sup></I>
+  <I><sup>$\text{\small\it\color{#9897ae}{Credits to my lovely silly @azpyiel for making my graphic move and for letting me copy ur homework cough.}}$</sup></I>
     <br/>
   <I><sup>$\text{\small\it\color{#b280a2}{All art made by me.}}$</sup></I>
  </p>
