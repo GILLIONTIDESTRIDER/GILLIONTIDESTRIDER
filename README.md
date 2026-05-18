@@ -85,7 +85,7 @@ $\text{\small\it\color{#336967}{GO CHECK OUT MY FRIENDS GITHUBS!}}$
 $\text{\small\it\color{#c8cea0}{@azpyiel}}$ $\text{\small\it\color{#69c3c6}{@me}}$ $\text{\small\it\color{#b280a2}{@puppyfes}}$
   </p>
 
-  <p align="center"><a href="https://github.com/azpyiel"><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/GILLIONTIDESTRIDER"><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/puppyfes"><img src="https://i1-c.pinimg.com/1200x/d2/64/7f/d2647fbee2a0a4de5a3e1effedfe66b0.jpg?raw=true" width="15%"></a></p>
+  <p align="center"><a href="https://github.com/azpyiel"><img src="https://64.media.tumblr.com/b1bffa13d322380464e4585406502a6c/4b6c76b7fe2713a8-c2/s400x600/b14a179fe4d883e772e99034481c1321770a52b2.gifv?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/GILLIONTIDESTRIDER"><img src="https://64.media.tumblr.com/97c04347879341d10e4c0fe1e007698c/4b6c76b7fe2713a8-4b/s400x600/1d34fcb0918c28017df4923388f887f51e854f2b.gifv?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/puppyfes"><img src="https://64.media.tumblr.com/ec4d426d4e922c7799fc7941d3d2ce56/4b6c76b7fe2713a8-4f/s400x600/05416526da4a11ec5a93bf704648a71ec6dda509.gifv?raw=true" width="15%"></a></p>
 
 
 <p align="center">
