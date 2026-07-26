@@ -8,8 +8,12 @@
   </p>
 <p align="center">
   <p align="center">
- $\text{\small\it\color{#c8cea0}{FOR PUTTING ME AS PONYTOWNS GILLION TIDESTRIDER !!}}$  
+ $\text{\small\it\color{#c8cea0}{FOR PUTTING ME AS PONYTOWNS GILLION TIDESTRIDER !!}}$
   </p>
+  <p align="center">
+  <I><sup>$\text{\small\it\color{#9897ae}{chat idk how to center hyperlinks}}$</sup></I>
+    <br/>
+ </p>
 <p align="center">
 <img src=https://64.media.tumblr.com/80d9d5373c079675017e02de70e27510/059373633cf9a0cb-af/s1280x1920/8a4979016b4ccf46dbfd9284bd30d58c29d5dc8e.pnj
 " alt="bleh" width="200">
