@@ -3,6 +3,17 @@
 " alt="bleh" width="800">
 </p>
 
+<p align="center">
+ $\text{\small\it\color{#c8cea0}{THANK YOU @title-town AND @pt-walk-of-fame}}$  
+  </p>
+<p align="center">
+  <p align="center">
+ $\text{\small\it\color{#c8cea0}{FOR PUTTING ME AS PONYTOWNS GILLION TIDESTRIDER !!}}$  
+  </p>
+<p align="center">
+<img src=https://64.media.tumblr.com/80d9d5373c079675017e02de70e27510/059373633cf9a0cb-af/s1280x1920/8a4979016b4ccf46dbfd9284bd30d58c29d5dc8e.pnj
+" alt="bleh" width="200">
+</p>
 
 <p align="center">
 <img src=https://64.media.tumblr.com/f16d8be2f008dbf89d6fd13a77c6dd02/1e929d6da77eb7fe-e0/s1280x1920/beb420dc19e4ca17e06978ccb7cb70f8a60bcc7d.pnj
