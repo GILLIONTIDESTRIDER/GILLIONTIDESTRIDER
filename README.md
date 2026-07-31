@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
- $\text{\small\it\color{#c8cea0}{THANK YOU @title-town AND @pt-walk-of-fame}}$  
+ $\text{\small\it\color{#c8cea0}{THANK YOU @title-town , @pt-walk-of-fame AND @pt-hall-of-media}}$  
   </p>
 <p align="center">
   <p align="center">
