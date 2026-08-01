@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
- $\text{\small\it\color{#c8cea0}{THANK YOU @title-town , @pt-walk-of-fame AND @pt-hall-of-media}}$  
+ $\text{\small\it\color{#c8cea0}{THANK YOU @title-town , @pt-walk-of-fame , @pt-hall-of-media , AND @fans-town }}$  
   </p>
 <p align="center">
   <p align="center">
- $\text{\small\it\color{#c8cea0}{FOR PUTTING ME AS PONYTOWNS GILLION TIDESTRIDER !!}}$
+ $\text{\small\it\color{#c8cea0}{FOR PUTTING ME AS PONYTOWNS/BIGGEST FAN OF GILLION TIDESTRIDER !!}}$
   </p>
   <p align="center">
   <I><sup>$\text{\small\it\color{#9897ae}{chat idk how to center hyperlinks}}$</sup></I>
