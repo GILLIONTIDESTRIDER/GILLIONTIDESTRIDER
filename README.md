@@ -85,22 +85,12 @@ $\text{\small\it\color{#73b16f}{Nearly always offtab unless with friends. c+h al
 " alt="bleh" width="200">
 </p>
 
-<p align="center"><a href=""><img src="https://64.media.tumblr.com/5f92c4d6f40162739f49848841e841f1/6bac9a2b9e63b884-a9/s2048x3072/3a7cacf5e197fd4644cbb8afb657ca6da3594776.pnj?raw=true" width="21%"></a>   <a href="/"><img src="https://64.media.tumblr.com/cac4dd355adade054574ba62d4345913/6bac9a2b9e63b884-5d/s2048x3072/a14033d76b995612e716f3b80077d8f12f55e6b9.pnj?raw=true" width="21%"></a></p>
+
 
 <p align="center">
 <img src=https://64.media.tumblr.com/6e644d6f0f8ee1ea391e5443eb899181/c1529de096232fb2-e6/s1280x1920/f4de5de54724abf776306ce9b0bb23d645be5aaa.pnj
 " alt="bleh" width="300">
 </p>
-
-<p align="center">
-$\text{\small\it\color{#336967}{GO CHECK OUT MY FRIENDS GITHUBS!}}$
-  </p>
-
-  <p align="center">
-$\text{\small\it\color{#c8cea0}{@beeseee}}$ $\text{\small\it\color{#69c3c6}{@me}}$ $\text{\small\it\color{#b280a2}{@kayyyayy}}$
-  </p>
-
-  <p align="center"><a href="https://github.com/azpyiel"><img src="https://64.media.tumblr.com/7b8599cc996a4b52382219c2f2f03743/162a0dc8814e6b45-e2/s640x960/66dc9ba162b8113d0f991ba89fe2dedbf85f56a9.gifv?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/GILLIONTIDESTRIDER"><img src="https://64.media.tumblr.com/23936fccef57090e873866282f57b244/162a0dc8814e6b45-96/s640x960/6d9fa847b64f6f1825432b05cf51354b5aaa1591.gifv?raw=true" width="15%"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/puppyfes"><img src="https://64.media.tumblr.com/314b86594084cc075dceb5ab71570824/162a0dc8814e6b45-a5/s640x960/6c9a0e5245d831226f04b2f63d64039b930c1c22.gifv?raw=true" width="15%"></a></p>
 
 
 <p align="center">
