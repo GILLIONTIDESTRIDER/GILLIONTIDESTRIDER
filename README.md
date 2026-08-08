@@ -10,10 +10,7 @@
   <p align="center">
  $\text{\small\it\color{#c8cea0}{FOR PUTTING ME AS PONYTOWNS/BIGGEST FAN OF GILLION TIDESTRIDER !!}}$
   </p>
-  <p align="center">
-  <I><sup>$\text{\small\it\color{#9897ae}{chat idk how to center hyperlinks}}$</sup></I>
-    <br/>
- </p>
+  
 <p align="center">
 <img src=https://64.media.tumblr.com/80d9d5373c079675017e02de70e27510/059373633cf9a0cb-af/s1280x1920/8a4979016b4ccf46dbfd9284bd30d58c29d5dc8e.pnj
 " alt="bleh" width="200">
@@ -55,17 +52,14 @@
 " alt="bleh" width="300"></p>
   
 <p align="center">
- $\text{\small\it\color{#c8cea0}{Hiya! I'm Gillion or Aiden, I go by he/him prns and I'm 17.}}$
+ $\text{\small\it\color{#c8cea0}{Hello. I'm Gillion and I'm 17.}}$
 </br>
  </br>
-$\text{\small\it\color{#73b16f}{Nearly always offtab unless with friends. c+h always encouraged, if im with someone just ask beforehand!}}$
-  $\text{\small\it\color{#73b16f}{I adore making new friends and socialising, if you ever want to be friends just ask! even if its just a " hey you look cool can we be friends ".}}$
+$\text{\small\it\color{#73b16f}{I have pub chat off the majority of the time and am almost always offtab unless you see me actively moving.}}$
+  $\text{\small\it\color{#73b16f}{If you want to interact please whisper me, I might not respond if I do not know you.}}$
   </br>
  </br>
-  $\text{\small\it\color{#336967}{Please keep in mind that I often refer to characters as me or that I am them, I dont know the label for this and I'm not bothered finding it.}}$
-   $\text{\small\it\color{#336967}{I am very much aware that I'm a human and I'm not a fictional character, and I can easily seperate myself from the actual character.}}$
-    $\text{\small\it\color{#354574}{I simply do this for fun and for comfort, I have done it my whole life and if this makes you uncomfortable please dont interact.}}$
-     $\text{\small\it\color{#354574}{'Doubles' don't bother me in the slightest, infact i love interacting with people who also like the same characters.}}$
+  $\text{\small\it\color{#336967}{I don't share my links out anymore, for safety and privacy reasons.}}$
  </p>
 
  <p align="center">
