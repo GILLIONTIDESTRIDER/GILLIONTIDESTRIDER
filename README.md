@@ -42,11 +42,6 @@
 " alt="bleh" width="550">
 </p>
 
- <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g0noqw57wfqhbo395152cka3l&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=8674b7&bar_color_cover=false">
-  </a>
-</p>
 
 <p align="center"><img src=https://64.media.tumblr.com/3b4e06ede8e3cbf5d9b52db86b910991/50b5f0fa00c5b11d-f5/s1280x1920/6f60dfc3eb3f29d0fc866af3d937747c192bda7b.pnj
 " alt="bleh" width="300"></p>
