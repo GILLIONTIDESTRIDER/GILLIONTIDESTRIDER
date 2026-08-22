@@ -51,10 +51,10 @@
 </br>
  </br>
 $\text{\small\it\color{#73b16f}{I have pub chat off the majority of the time and am almost always offtab unless you see me actively moving.}}$
-  $\text{\small\it\color{#73b16f}{If you want to interact please whisper me, I might not respond if I do not know you.}}$
+  $\text{\small\it\color{#73b16f}{If you want to interact please whisper me, c+h is always encouraged i love sitting w ppl.}}$
   </br>
  </br>
-  $\text{\small\it\color{#336967}{I don't share my links out anymore, for safety and privacy reasons.}}$
+  $\text{\small\it\color{#336967}{hi chat i removed all my links and cant be bothered to redo the code for them so go sign my ata untill i completely redo this}}$
  </p>
 
  <p align="center">
