@@ -53,6 +53,8 @@ $\small{\text{\it\color{#86f7d0}{Please read my strawpage beforehand if you'd li
 <p align="center">
   <p align="center"> <img align="center" src="https://64.media.tumblr.com/cb5bff86ff94b01c3aaec59bb0a2c49f/69adafb543f276ac-3f/s1280x1920/1783fe047c31ba6dc62455b10dc9b5b8d5181841.pnj" width="150"> <p align="center">
 
+ <p align="center"><a href="https://github.com/GILLIONTIDESTRIDER"><img src="https://64.media.tumblr.com/811db601105f7b516ce06a2d4d1750be/5318d02ccaee76e5-6a/s640x960/8881a797b0e84eb9c128c821c2674cb6af218dc0.pnj?raw=true" width="10%">
+
  <p align="center">
   <p align="center"> <img align="center" src="https://64.media.tumblr.com/985e32155de33323e69ca4e1428e6629/2dd790ac9ce0a3b1-81/s1280x1920/356a3943e009d748f603f728a33bbd752c00841a.pnj" width="250">
 
