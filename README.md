@@ -31,8 +31,8 @@ $\small{\text{\it\color{#86f7d0}{Please read my strawpage beforehand if you'd li
   <p align="center">
   <p align="center"> <img align="center" src="https://64.media.tumblr.com/cb5bff86ff94b01c3aaec59bb0a2c49f/69adafb543f276ac-3f/s1280x1920/1783fe047c31ba6dc62455b10dc9b5b8d5181841.pnj" width="150"> <p align="center">
   </br>
+   </br>
 
- </br> 
  <p align="right">
   <p align="center"> <img align="right" src="https://64.media.tumblr.com/a275a5846876d9697a8de133b4a4fe83/303b7d0ead13eb18-8d/s2048x3072/5b643df954f6f22eac13df609502f6da0ee08712.pnj" width="350">
   <div align="center">
@@ -59,6 +59,7 @@ $\small{\text{\it\color{#86f7d0}{Please read my strawpage beforehand if you'd li
   <p align="center"> <img align="center" src="https://64.media.tumblr.com/985e32155de33323e69ca4e1428e6629/2dd790ac9ce0a3b1-81/s1280x1920/356a3943e009d748f603f728a33bbd752c00841a.pnj" width="250">
 
  </br>
+  </br>
   </br>
  <div align="center">
 <details>
