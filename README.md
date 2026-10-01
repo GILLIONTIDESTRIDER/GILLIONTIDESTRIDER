@@ -16,9 +16,9 @@
     </td>
     <td style="border:none; padding-left:10px;">
      <p align="center">
-$\small{\text{\it\color{#549ece}{Hello, my name is Gillion. I'm 17 and British,}}}$ $\small{\text{\it\color{#549ece}{I am also autistic and dyslexic.}}}$ </br> $\small{\text{\it\color{#3fbad1}{I adore Just Roll With It, Slimecicle, DnD,}}}$ $\small{\text{\it\color{#3fbad1}{and a lot more interests on my strawpage.}}}$
+$\small{\text{\it\color{#c0e588}{Hello, my name is Gillion. I'm 17 and British,}}}$ $\small{\text{\it\color{#c0e588}{I am also autistic and dyslexic.}}}$ </br> $\small{\text{\it\color{#60dd8e}{I adore Just Roll With It, Slimecicle, DnD,}}}$ $\small{\text{\it\color{#60dd8e}{and a lot more interests on my strawpage.}}}$
 </br>
-$\small{\text{\it\color{#cb9dde}{Please read my strawpage beforehand if you'd like to be friends.}}}$
+$\small{\text{\it\color{#86f7d0}{Please read my strawpage beforehand if you'd like to be friends.}}}$
 
   </tr>
 </table>
