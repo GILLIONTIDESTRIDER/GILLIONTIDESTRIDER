@@ -4,7 +4,7 @@
 
 
 <p align="left">
-  <p align="center"> <img align="left" src="https://64.media.tumblr.com/935fdb893331aa751db23650d3137708/303b7d0ead13eb18-74/s2048x3072/d3fbe1196481fb6be8bcff20e9fe0d5654b4a0ac.pnj" width="350"> </br>  <p align="center"> 
+  <p align="center"> <img align="left" src="https://64.media.tumblr.com/935fdb893331aa751db23650d3137708/303b7d0ead13eb18-74/s2048x3072/d3fbe1196481fb6be8bcff20e9fe0d5654b4a0ac.pnj" width="300"> </br>  <p align="center"> 
 <p align="center"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=GILLIONTIDESTRIDER&label=​🇮​​🇹+🇮​​🇸+🇲​​🇾+🇩​​🇪​​🇸​​🇹​​🇮​​🇳​​🇾​..&color=73b16f&abbreviated=&style=flat-square">
 
