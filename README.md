@@ -35,9 +35,41 @@ $\small{\text{\it\color{#86f7d0}{Please read my strawpage beforehand if you'd li
  <p align="right">
   <p align="center"> <img align="right" src="https://64.media.tumblr.com/a275a5846876d9697a8de133b4a4fe83/303b7d0ead13eb18-8d/s2048x3072/5b643df954f6f22eac13df609502f6da0ee08712.pnj" width="350">
   <div align="center">
+
+  <p align="center"> <img align="center" src="https://64.media.tumblr.com/985e32155de33323e69ca4e1428e6629/2dd790ac9ce0a3b1-81/s1280x1920/356a3943e009d748f603f728a33bbd752c00841a.pnj" width="250">
 <details>
-  <summary>$\tiny\color{#c0e588}{\text{ponytown awards !!}}$</summary>
+  <summary>$\tiny\color{#86f7d0}{\text{PONYTOWN AWARDS !!}}$</summary>
  <sub> 
- thank you <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media </a>, <a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>, </a><a href="https://github.com/fans-town">@fans-town</a>, <a href="https://github.com/title-town">@title-town</a>, <a href="https://github.com/pt-friendships">@pt-friendships </a> !! #ponytownsgilliontidestrider
+ Thank you <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media </a>, <a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>, </a><a href="https://github.com/fans-town">@fans-town</a>, <a href="https://github.com/title-town">@title-town</a>, <a href="https://github.com/pt-friendships">@pt-friendships </a> !! #ponytownsgilliontidestrider
+</details>
+ </sub>
+
+<p align="center">
+  <p align="center"> <img align="center" src="https://64.media.tumblr.com/cb5bff86ff94b01c3aaec59bb0a2c49f/69adafb543f276ac-3f/s1280x1920/1783fe047c31ba6dc62455b10dc9b5b8d5181841.pnj" width="150"> <p align="center">
+
+ <p align="center"><a href="https://destinyschosen.straw.page/home"><img src="https://64.media.tumblr.com/b66de92983b6d432ed1c3076047ef74c/618938e5ebe640f1-8f/s1280x1920/bd8a294d79eb5cc8be60e1450dbeba0ff9dec8ec.pnj?raw=true" width="20%"></a>&nbsp;&nbsp;&nbsp;<a href=https://heroofthedeep.atabook.org/><img src="https://64.media.tumblr.com/0d20a6e4d8e0099dd71bf2a844b23489/618938e5ebe640f1-65/s1280x1920/e1d94e3d939cb70c96a6ef8636f77ebff2c023c4.pnj?raw=true" width="20%">
+
+ <p align="center"><a href="https://fruitbowltrio.straw.page/home"><img src="https://64.media.tumblr.com/c8508a23294f53296ab7c38d789ade26/1e5067f681e1863a-6a/s1280x1920/b609bb1d938ebcc20eb1abf5c94e47f8c1ddc8e1.pnj?raw=true" width="20%">
+
+<p align="center">
+  <p align="center"> <img align="center" src="https://64.media.tumblr.com/cb5bff86ff94b01c3aaec59bb0a2c49f/69adafb543f276ac-3f/s1280x1920/1783fe047c31ba6dc62455b10dc9b5b8d5181841.pnj" width="150"> <p align="center">
+
+ <p align="center">
+  <p align="center"> <img align="center" src="https://64.media.tumblr.com/985e32155de33323e69ca4e1428e6629/2dd790ac9ce0a3b1-81/s1280x1920/356a3943e009d748f603f728a33bbd752c00841a.pnj" width="250">
+
+ <div align="center">
+<details>
+  <summary>$\tiny\color{#4aeff2}{\text{PT + SUPPORTER INFO}}$</summary>
+ <sub> 
+I am nearly always offtab or afking unless actively moving, majority of the time I have public chat off. Please whisper to interact with me.
+C+H is always encouraged, even when I'm with friends I do not mind as long as I'm not moving around constantly.
+Do not copy my skins, you can inspo from my skins but do not completely copy.
+
+</br>
+ </br>
+I enjoy regiments/species and am mostly active in ones i am in, although i rarely join over 3 regiments/species at a time unless allying. If you have a problem with that, kindly do not interact or hide/block me.
+ </br>
+ </br>
+Do not ask for supporter, mine was a gift and I would not " gift/give " you supporter regardless. I will help you out with build limit in any other server than safe server one IF you ask politely and don't spam me and all my friends just because a lot of us have supporter.
 </details>
  </sub>
