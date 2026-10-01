@@ -33,7 +33,8 @@ $\small{\text{\it\color{#86f7d0}{Please read my strawpage beforehand if you'd li
   </br>
 
  <p align="right">
-  <p align="center"> <img align="right" src="https://64.media.tumblr.com/a275a5846876d9697a8de133b4a4fe83/303b7d0ead13eb18-8d/s2048x3072/5b643df954f6f22eac13df609502f6da0ee08712.pnj" width="350">  <div align="center">
+  <p align="center"> <img align="right" src="https://64.media.tumblr.com/a275a5846876d9697a8de133b4a4fe83/303b7d0ead13eb18-8d/s2048x3072/5b643df954f6f22eac13df609502f6da0ee08712.pnj" width="350">
+  <div align="center">
 <details>
   <summary>$\tiny\color{#c0e588}{\text{ponytown awards !!}}$</summary>
  <sub> 
