@@ -1,6 +1,6 @@
 
 <p align="center"> $\small{\text{\it\color{#4aeff2}{My stone,}}}$ $\small{\text{\it\color{#86f7d0}{my shield, my steady hand.}}}$
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a <p align="center"> $\small{\text{\it\color{#60dd8e}{Hold your light,}}}$ $\small{\text{\it\color{#c0e588}{to the darkness in my head.}}}$ </a></p>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a <p align="center"> $\small{\text{\it\color{#c0e588}{Hold your light,}}}$ $\small{\text{\it\color{#60dd8e}{to the darkness in my head.}}}$ </a></p>
 
 
 <p align="left">
