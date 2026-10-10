@@ -65,7 +65,7 @@ $\small{\text{\it\color{#86f7d0}{Please read my strawpage beforehand if you'd li
   <summary>$\tiny\color{#4aeff2}{\text{PT + SUPPORTER INFO}}$</summary>
  <sub> 
 I am nearly always offtab or afking unless actively moving, majority of the time I have public chat off. Please whisper to interact with me.
-C+H is always encouraged **when I'm at docks**, even when I'm with friends I do not mind as long as I'm not moving around constantly.
+C+H is always encouraged WHEN I'M AT DOCKS unless friends/green names, even when I'm with friends I do not mind as long as I'm not moving around constantly.
 Do not copy my skins, you can inspo from my skins but do not completely copy.
 
 </br>
